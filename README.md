@@ -1,6 +1,6 @@
-# ttktjmt.github.io
-This portfolio lists my social media accounts.  
-You can view the page from [ttktjmt.github.io](https://ttktjmt.github.io)
+# [deprecated] ttktjmt.github.io
+This is my old portfolio. You can check out my new portfolio from here: [ttktjmt.com](https://ttktjmt.com)
+If you still want to check out this portfolio, you can see it from here: [ttktjmt.github.io](https://ttktjmt.github.io)
 
 # Credits
 - **Design**  
